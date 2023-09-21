@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newsTurtle/static/css/main.31d6cfe0.css",
+    "main.js": "/newsTurtle/static/js/main.25b1dab2.js",
+    "static/js/787.4c026eef.chunk.js": "/newsTurtle/static/js/787.4c026eef.chunk.js",
+    "static/media/spinner.gif": "/newsTurtle/static/media/spinner.179bf1eb5402974b79e3.gif",
+    "index.html": "/newsTurtle/index.html",
+    "main.25b1dab2.js.map": "/newsTurtle/static/js/main.25b1dab2.js.map",
+    "787.4c026eef.chunk.js.map": "/newsTurtle/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.25b1dab2.js"
+  ]
+}
